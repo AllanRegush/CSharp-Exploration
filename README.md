@@ -1,4 +1,4 @@
 # CSharp-Exploration
 Learning Path / Exploring C#
 
-- [x] [Variables](charp-exploration/tree/master/Variables)
+- [x] [Variables](charp-exploration/tree/main/Variables)
