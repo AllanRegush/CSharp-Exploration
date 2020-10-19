@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{D737B062-7286-4960-B54C-B3C9E2A26E3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciLibaray", "FibonacciLibaray\FibonacciLibaray.csproj", "{DAE73B33-735C-4FEA-AD8F-E55E17C2AC44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciLibrary", "FibonacciLibrary\FibonacciLibrary.csproj", "{DAE73B33-735C-4FEA-AD8F-E55E17C2AC44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

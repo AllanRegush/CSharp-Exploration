@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FibonacciLibaray
+namespace FibonacciLibrary
 {
     public static class Fibonacci
     {
