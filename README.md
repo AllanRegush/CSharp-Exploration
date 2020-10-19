@@ -5,3 +5,4 @@ Learning Path / Exploring C#
 - [x] [Conditionals](Conditionals)
 - [x] [Type Conversion](TypeConversion) 
 - [x] [Fibonacci](Fibonacci)
+- [x] [CalculatePI](CalculatePI)
