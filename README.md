@@ -3,5 +3,5 @@ Learning Path / Exploring C#
 
 - [x] [Variables](Variables)
 - [x] [Conditionals](Conditionals)
-- [x] [Type Converion](TypeConversion) 
+- [x] [Type Conversion](TypeConversion) 
 - [x] [Fibonacci](Fibonacci)
