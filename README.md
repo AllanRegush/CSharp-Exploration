@@ -7,6 +7,7 @@ Learning Path / Exploring C#
 - [x] [Variables, Conditionals, Type Conversion](VariablesAndConditionalsMiniProject) 
 - [x] [Arrays](Arrays)
 - [x] [Lists](Lists)
+- [x] [For Loop](ForLoop)
 - [x] [Dictionary](Dictionary)
 - [x] [Fibonacci](Fibonacci)
 - [x] [CalculatePI](CalculatePI)
