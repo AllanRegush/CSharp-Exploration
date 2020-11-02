@@ -8,6 +8,7 @@ Learning Path / Exploring C#
 - [x] [Arrays](Arrays)
 - [x] [Lists](Lists)
 - [x] [For Loop](ForLoop)
+- [x] [For Each Loop](ForEachLoops)
 - [x] [Dictionary](Dictionary)
 - [x] [Fibonacci](Fibonacci)
 - [x] [CalculatePI](CalculatePI)
