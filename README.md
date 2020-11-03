@@ -10,5 +10,6 @@ Learning Path / Exploring C#
 - [x] [For Loop](ForLoop)
 - [x] [For Each Loop](ForEachLoops)
 - [x] [Dictionary](Dictionary)
+- [x] [Methods](Methods)
 - [x] [Fibonacci](Fibonacci)
 - [x] [CalculatePI](CalculatePI)
