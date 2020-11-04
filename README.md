@@ -11,5 +11,6 @@ Learning Path / Exploring C#
 - [x] [For Each Loop](ForEachLoops)
 - [x] [Dictionary](Dictionary)
 - [x] [Methods](Methods)
+- [x] [GuestBookMiniProject](GuestBookMiniProject) 
 - [x] [Fibonacci](Fibonacci)
 - [x] [CalculatePI](CalculatePI)
