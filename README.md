@@ -14,3 +14,4 @@ Learning Path / Exploring C#
 - [x] [GuestBookMiniProject](GuestBookMiniProject) 
 - [x] [Fibonacci](Fibonacci)
 - [x] [CalculatePI](CalculatePI)
+- [x] [Breakpoints](Breakpoints)
