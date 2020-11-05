@@ -14,6 +14,8 @@ namespace ConsoleUI
         {
             LoadGuests();
 
+            DisplayGuests();
+
             Console.ReadLine();
         }
 
@@ -27,7 +29,7 @@ namespace ConsoleUI
         private static void LoadGuests()
         
         {
-            string confirmation = "";
+            string confirmation = "y";
             while (confirmation.ToLower() == "y" || confirmation.ToLower() == "yes" )
             {
                 string partyName = GetPartyName();
