@@ -12,6 +12,7 @@ Learning Path / Exploring C#
 - [x] [Dictionary](Dictionary)
 - [x] [Methods](Methods)
 - [x] [GuestBookMiniProject](GuestBookMiniProject) 
+- [x] [Exceptions](Exceptions)
 - [x] [Fibonacci](Fibonacci)
 - [x] [CalculatePI](CalculatePI)
 - [x] [Breakpoints](Breakpoints)
