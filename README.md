@@ -16,5 +16,5 @@ Learning Path / Exploring C#
 
 # Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
-- [x] [CalculatePI](CSProblems/Calculate PI)
+- [x] [CalculatePI](CSProblems/Calculate%20PI)
 - [x] [Breakpoints](CSProblems/Breakpoints)
