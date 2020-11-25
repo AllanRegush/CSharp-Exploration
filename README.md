@@ -13,9 +13,10 @@ Learning Path / Exploring C#
 - [x] [Methods](Basics/Methods)
 - [x] [GuestBookMiniProject](Basics/GuestBookMiniProject) 
 - [x] [Exceptions](Basics/Exceptions)
+- [x] [Breakpoints](Basics/Breakpoints)
 - [x] [MoreExceptions](Basics/MoreExceptions)
+- [x] [MoreBreakpoints](Basics/MoreBreakpoints)
 
 # Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
 - [x] [CalculatePI](CSProblems/Calculate%20PI)
-- [x] [Breakpoints](CSProblems/Breakpoints)
