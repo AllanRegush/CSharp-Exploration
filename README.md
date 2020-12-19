@@ -22,3 +22,4 @@ Learning Path / Exploring C#
 # Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
 - [x] [CalculatePI](CSProblems/Calculate%20PI)
+- [x] [BubbleSort](CSProblems/BubbleSort)
