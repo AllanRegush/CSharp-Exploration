@@ -16,6 +16,8 @@ Learning Path / Exploring C#
 - [x] [Breakpoints](Basics/Breakpoints)
 - [x] [MoreExceptions](Basics/MoreExceptions)
 - [x] [MoreBreakpoints](Basics/MoreBreakpoints)
+- [x] [Static Classes](Basics/StaticClasses)
+- [ ] Instantiated Classes
 
 # Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
