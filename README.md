@@ -19,7 +19,7 @@ Learning Path / Exploring C#
 
 ### Object Oriented Programming
 - [x] [Static Classes](Object%20Oriented%20Programming/StaticClasses)
-- [ ] Instantiated Classes
+- [x] [Instantiated Classes](Object%20Oriented%20Programming/InstantiatedClasses)
 
 ### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
