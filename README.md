@@ -16,10 +16,12 @@ Learning Path / Exploring C#
 - [x] [Breakpoints](Basics/Breakpoints)
 - [x] [MoreExceptions](Basics/MoreExceptions)
 - [x] [MoreBreakpoints](Basics/MoreBreakpoints)
-- [x] [Static Classes](Basics/StaticClasses)
+
+### Object Oriented Programming
+- [x] [Static Classes](Object%20Oriented%20Programming/StaticClasses)
 - [ ] Instantiated Classes
 
-# Computer Science Problems
+### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
 - [x] [CalculatePI](CSProblems/Calculate%20PI)
 - [x] [BubbleSort](CSProblems/BubbleSort)
