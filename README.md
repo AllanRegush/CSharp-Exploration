@@ -22,6 +22,7 @@ Learning Path / Exploring C#
 - [x] [Instantiated Classes](Object%20Oriented%20Programming/InstantiatedClasses)
 - [x] [Properties](Object%20Oriented%20Programming/Properties)
 - [x] [Namespaces](Object%20Oriented%20Programming/Namespaces) 
+- [x] [Class Libraries](Object%20Oriented%20Programming/ClassLibrary)
 
 ### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
