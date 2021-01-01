@@ -23,7 +23,8 @@ Learning Path / Exploring C#
 - [x] [Properties](Object%20Oriented%20Programming/Properties)
 - [x] [Namespaces](Object%20Oriented%20Programming/Namespaces) 
 - [x] [Class Libraries](Object%20Oriented%20Programming/ClassLibrary)
-- [x] [Inheritance](Object%20Oriented%20Programming/Inheritance) 
+- [x] [Inheritance](Object%20Oriented%20Programming/Inheritance)
+- [x] [Interfaces](Object%20Oriented%20Programming/Interfaces)  
 
 ### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
