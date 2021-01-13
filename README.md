@@ -30,3 +30,4 @@ Learning Path / Exploring C#
 - [x] [Fibonacci](CSProblems/Fibonacci)
 - [x] [CalculatePI](CSProblems/Calculate%20PI)
 - [x] [BubbleSort](CSProblems/BubbleSort)
+- [x] [LinkedList](CSProblems/LinkedList) 
