@@ -25,6 +25,7 @@ Learning Path / Exploring C#
 - [x] [Class Libraries](Object%20Oriented%20Programming/ClassLibrary)
 - [x] [Inheritance](Object%20Oriented%20Programming/Inheritance)
 - [x] [Interfaces](Object%20Oriented%20Programming/Interfaces)
+- [x] [Inheritance-Interfaces Mini Project](Object%20Oriented%20Programming/Inheritance-InterfacesMiniProject)
 - [x] [AbstractClasses](Object%20Oriented%20Programming/Abstract%20Classes)
 
 ### Computer Science Problems
