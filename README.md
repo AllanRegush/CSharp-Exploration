@@ -28,7 +28,8 @@ Learning Path / Exploring C#
 - [x] [Inheritance-Interfaces Mini Project](Object%20Oriented%20Programming/Inheritance-InterfacesMiniProject)
 - [x] [Access Modifiers](Object%20Oriented%20Programming/AccessModifiers)
 - [x] [Abstract Classes](Object%20Oriented%20Programming/Abstract%20Classes)
-- [x] [Method Overriding](Object%20Oriented%20Programming/MethodOverriding) 
+- [x] [Method Overriding](Object%20Oriented%20Programming/MethodOverriding)
+- [x] [Extension Methods](Object%20Oriented%20Programming/ExtensionMethods)
 
 ### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
