@@ -32,6 +32,10 @@ Learning Path / Exploring C#
 - [x] [Extension Methods](Object%20Oriented%20Programming/ExtensionMethods)
 - [x] [Generics](Object%20Oriented%20Programming/Generics)
 
+
+### Other
+- [x] [Unsafe/Pointers](Object%20Oriented%20Programming/UnsafePointers)
+
 ### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
 - [x] [CalculatePI](CSProblems/Calculate%20PI)
