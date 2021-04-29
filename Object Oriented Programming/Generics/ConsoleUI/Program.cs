@@ -22,6 +22,7 @@ namespace ConsoleUI
             int itemAtTwo = vec.At(2);
 
             Console.WriteLine(itemAtTwo);
+            Console.WriteLine(vec.Capacity);
 
             Console.ReadLine();
         }

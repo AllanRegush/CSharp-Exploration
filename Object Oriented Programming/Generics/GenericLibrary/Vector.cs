@@ -4,13 +4,13 @@ namespace GenericLibrary
 {
     public class Vector <T>
     {
-        private int maxSize = 2;
+        public int Capacity { get; private set; } = 2;
         private int size = 0;
         private T[] _array = new T[2];
 
         public void Add(T item)
         {
-            if (size == maxSize)
+            if (size == Capacity)
             {
                 Resize();
             }
@@ -23,15 +23,10 @@ namespace GenericLibrary
             return _array[index];
         }
 
-        public int Capacity()
-        {
-            return maxSize;
-        }
-
         private void Resize()
         {
-            maxSize *= 2;
-            T[] newArray = new T[maxSize];
+            Capacity *= 2;
+            T[] newArray = new T[Capacity];
             for (int i = 0; i < _array.Length; ++i)
             {
                 newArray[i] = _array[i];
