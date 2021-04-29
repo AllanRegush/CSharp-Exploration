@@ -30,6 +30,7 @@ Learning Path / Exploring C#
 - [x] [Abstract Classes](Object%20Oriented%20Programming/Abstract%20Classes)
 - [x] [Method Overriding](Object%20Oriented%20Programming/MethodOverriding)
 - [x] [Extension Methods](Object%20Oriented%20Programming/ExtensionMethods)
+- [x] [Generics](Object%20Oriented%20Programming/Generics)
 
 ### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
