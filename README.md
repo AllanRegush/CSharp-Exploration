@@ -32,6 +32,9 @@ Learning Path / Exploring C#
 - [x] [Extension Methods](Object%20Oriented%20Programming/ExtensionMethods)
 - [x] [Generics](Object%20Oriented%20Programming/Generics)
 
+### Project Types
+- [x] [Class Library](Project%20Types/Class%20Library)
+
 
 ### Other
 - [x] [Unsafe/Pointers](Object%20Oriented%20Programming/UnsafePointers)
