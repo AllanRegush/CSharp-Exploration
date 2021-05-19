@@ -29,6 +29,7 @@ Learning Path / Exploring C#
 - [x] [Access Modifiers](Object%20Oriented%20Programming/AccessModifiers)
 - [x] [Abstract Classes](Object%20Oriented%20Programming/Abstract%20Classes)
 - [x] [Method Overriding](Object%20Oriented%20Programming/MethodOverriding)
+- [x] [Method Overloading](Object%20Oriented%20Programming/MethodOverloading)
 - [x] [Extension Methods](Object%20Oriented%20Programming/ExtensionMethods)
 - [x] [Generics](Object%20Oriented%20Programming/Generics)
 
