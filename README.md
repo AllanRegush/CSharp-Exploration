@@ -32,6 +32,7 @@ Learning Path / Exploring C#
 - [x] [Method Overloading](Object%20Oriented%20Programming/MethodOverloading)
 - [x] [Extension Methods](Object%20Oriented%20Programming/ExtensionMethods)
 - [x] [Generics](Object%20Oriented%20Programming/Generics)
+- [x] [Events](Object%20Oriented%20Programming/Events)
 
 ### Project Types
 - [x] [Class Library](Project%20Types/Class%20Library)
