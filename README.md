@@ -41,6 +41,7 @@ Learning Path / Exploring C#
 
 ### Other
 - [x] [Unsafe/Pointers](Object%20Oriented%20Programming/UnsafePointers)
+- [X] [C Interop](Other/CInterop)
 
 ### Computer Science Problems
 - [x] [Fibonacci](CSProblems/Fibonacci)
