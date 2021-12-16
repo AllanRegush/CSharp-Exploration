@@ -37,6 +37,7 @@ Learning Path / Exploring C#
 ### Project Types
 - [x] [Class Library](Project%20Types/Class%20Library)
 - [x] [Unit Tests](Project%20Types/UnitTesting)
+- [ ] [Xamarin Forms](Project%20Types/ShoppingListApp)
 
 
 ### Other
