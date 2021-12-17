@@ -13,5 +13,23 @@
                     Text="Delete"
                     Clicked="OnDeleteButtonClicked" />
         </Grid>
+    
+        <CollectionView x:Name="collectionView"
+                    Margin="20"
+                    SelectionMode="Single"
+                    SelectionChanged="OnSelectionChanged">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical"
+                                   ItemSpacing="10" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding Item}"
+                           FontSize="Medium"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
     </StackLayout>
 </ContentPage>
