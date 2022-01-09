@@ -17,6 +17,7 @@ Learning Path / Exploring C#
 - [x] [MoreExceptions](Basics/MoreExceptions)
 - [x] [MoreBreakpoints](Basics/MoreBreakpoints)
 - [x] [DateTime](Basics/DateTime)
+- [x] [DateOnly](Basics/DateOnly)
 
 ### Object Oriented Programming
 - [x] [Static Classes](Object%20Oriented%20Programming/StaticClasses)
