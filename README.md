@@ -16,6 +16,7 @@ Learning Path / Exploring C#
 - [x] [Breakpoints](Basics/Breakpoints)
 - [x] [MoreExceptions](Basics/MoreExceptions)
 - [x] [MoreBreakpoints](Basics/MoreBreakpoints)
+- [x] [Operator Overloading](Basics/OperatorOverloading)
 - [x] [DateTime](Basics/DateTime)
 - [x] [DateOnly](Basics/DateOnly)
 
