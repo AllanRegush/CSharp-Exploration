@@ -41,7 +41,7 @@ Learning Path / Exploring C#
 - [x] [Class Library](Project%20Types/Class%20Library)
 - [x] [Unit Tests](Project%20Types/UnitTesting)
 - [x] [Win Forms](Project%20Types/HelloUserApp)
-- [x] [Win Forms Mini Project](Project%20Types/WinFormsMiniProject)
+- [x] [Win Forms Mini Project](Project%20Types/WinFormsMiniProjectApp)
 - [ ] [Xamarin Forms](Project%20Types/ShoppingListApp)
 
 
