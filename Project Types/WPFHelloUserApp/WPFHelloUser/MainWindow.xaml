@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFHelloUser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHelloUser"
+        mc:Ignorable="d" FontSize="20"
+        Title="MainWindow" Height="160" Width="400">
+    <Grid>
+        <StackPanel Orientation="Vertical" >
+            <StackPanel Orientation="Horizontal">
+                <Label>First Name:</Label>
+                <TextBox x:Name="firstNameText" MinWidth="200" MaxHeight="300"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Last Name:</Label>
+                <TextBox x:Name="lastNameText" MinWidth="200" MaxHeight="300"></TextBox>
+            </StackPanel>
+            <Button x:Name="greetButton" Click="greetButton_Click">Greet</Button>
+        </StackPanel>
+    </Grid>
+</Window>
