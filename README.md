@@ -43,6 +43,7 @@ Learning Path / Exploring C#
 - [x] [Win Forms](Project%20Types/HelloUserApp)
 - [x] [Win Forms Mini Project](Project%20Types/WinFormMiniProjectApp)
 - [x] [WPF App](Project%20Types/WPFHelloUserApp)
+- [x] [ASP.Net Razor Pages](Project%20Types/HelloUserRazorPagesApp)
 - [ ] [Xamarin Forms](Project%20Types/ShoppingListApp)
 
 
