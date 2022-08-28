@@ -19,6 +19,7 @@ Learning Path / Exploring C#
 - [x] [Operator Overloading](Basics/OperatorOverloading)
 - [x] [DateTime](Basics/DateTime)
 - [x] [DateOnly](Basics/DateOnly)
+- [ ] [Records]()
 
 ### Object Oriented Programming
 - [x] [Static Classes](Object%20Oriented%20Programming/StaticClasses)
@@ -45,6 +46,7 @@ Learning Path / Exploring C#
 - [x] [WPF App](Project%20Types/WPFHelloUserApp)
 - [x] [ASP.Net Razor Pages](Project%20Types/HelloUserRazorPagesApp)
 - [ ] [Xamarin Forms](Project%20Types/ShoppingListApp)
+- [ ] [.NET MAUI]()
 
 
 ### Other
