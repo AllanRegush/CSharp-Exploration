@@ -35,6 +35,7 @@ Learning Path / Exploring C#
 - [x] [Method Overriding](Object%20Oriented%20Programming/MethodOverriding)
 - [x] [Method Overloading](Object%20Oriented%20Programming/MethodOverloading)
 - [x] [Extension Methods](Object%20Oriented%20Programming/ExtensionMethods)
+- [x] [Extension Methods Mini Project App](Object%20Oriented%20Programming/ExtensionMethodsMiniProjectApp)
 - [x] [Generics](Object%20Oriented%20Programming/Generics)
 - [x] [Events](Object%20Oriented%20Programming/Events)
 
