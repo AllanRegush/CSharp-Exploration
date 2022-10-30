@@ -42,6 +42,7 @@ Learning Path / Exploring C#
 ### Project Types
 - [x] [Class Library](Project%20Types/Class%20Library)
 - [x] [Unit Tests](Project%20Types/UnitTesting)
+- [x] [Unit Testing Mini Project](Project%20Types/UnitTestingMiniProjectApp)
 - [x] [Win Forms](Project%20Types/HelloUserApp)
 - [x] [Win Forms Mini Project](Project%20Types/WinFormMiniProjectApp)
 - [x] [WPF App](Project%20Types/WPFHelloUserApp)
