@@ -1,0 +1,17 @@
+﻿@page
+@model RazorPagesMiniProject.Pages.AddressInfoModel
+@{
+}
+<div>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Street">Street: </label>
+            <input asp-for="Street" />
+            <label asp-for="State">State :</label>
+            <input asp-for="State" />
+            <label asp-for="ZipCode">Zip Code: </label>
+            <input asp-for="ZipCode" />
+            <button class="btn-primary">Submit</button>
+        </div>
+    </form>
+</div>
