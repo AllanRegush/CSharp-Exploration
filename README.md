@@ -50,6 +50,7 @@ Learning Path / Exploring C#
 - [x] [ASP.Net Razor Pages Mini Project](Project%20Types/RazorPagesMiniProjectApp)
 - [x] [ASP.Net Model View Controller MVC](Project%20Types/MVCApp)
 - [x] [ASP.Net Web API](Project%20Types/HelloUserWebAPI)
+- [x] [ASP.Net Web API Mini Project](Project%20Types/WebAPIMiniProjectApp/)
 - [ ] [Xamarin Forms](Project%20Types/ShoppingListApp)
 - [ ] [.NET MAUI]()
 
