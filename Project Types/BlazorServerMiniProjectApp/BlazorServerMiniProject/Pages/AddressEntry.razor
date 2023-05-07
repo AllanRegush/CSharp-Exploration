@@ -1,0 +1,41 @@
+@page "/address-entry"
+
+<EditForm Model="model" OnValidSubmit="VaildSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <label for="street" class="form-label">@nameof(model.Street)</label>
+    <InputText id="street" @bind-Value="model.Street" class="form-control" />
+    <label for="city" class="form-label">@nameof(model.City)</label>
+    <InputText id="city" @bind-Value="model.City" class="form-control" />
+    <label for="state" class="form-label">@nameof(model.State)</label>
+    <InputText id="state" @bind-Value="model.State" class="form-control" />
+    <label for="zipcode" class="form-label">@nameof(model.ZipCode)</label>
+    <InputText id="zipcode" @bind-Value="model.ZipCode" class="form-control" />
+    <button class="btn btn-primary">Submit</button>
+</EditForm>
+
+<ul>
+    @foreach (var address in addresses)
+    {
+        <li>@address.Street @address.City @address.State @address.ZipCode</li>
+    }
+</ul>
+
+@code {
+    private AddressModel model = new();
+    private List<AddressModel> addresses = new();
+
+    private bool isFieldsNotNull()
+    {
+        return model.Street is not null && model.City is not null &&
+            model.State is not null && model.ZipCode is not null;
+    }
+    private void VaildSubmit()
+    {
+        if (isFieldsNotNull())
+        {
+            addresses.Add(model);
+            model = new();
+        }
+    }
+}
