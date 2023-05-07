@@ -1,0 +1,37 @@
+@page "/name-wall"
+
+<h3>Name Wall</h3>
+<EditForm Model="model" OnValidSubmit="VaildSubmission">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <label for="firstname" class="form-label">@nameof(model.FirstName)</label>
+    <InputText id="firstname" @bind-Value="model.FirstName" placeholder="First Name" class="form-control"></InputText>
+    <label for="lastname" class="form-label">@nameof(model.LastName)</label>
+    <InputText id="lastname" @bind-Value="model.LastName" placeholder="Last Name" class="form-control"></InputText>
+    <button class="btn btn-primary" type="submit">Submit</button>
+</EditForm>
+
+<ul>
+    @foreach (var person in people)
+    {
+        <li>@person.FirstName @person.LastName</li>
+    }
+</ul>
+
+@code {
+    private PersonModel model = new();
+    private List<PersonModel> people = new();
+
+    private bool IsModelNotNull()
+    {
+        return model.FirstName is not null && model.LastName is not null;
+    }
+    private void VaildSubmission()
+    {
+        if(IsModelNotNull())
+        {
+            people.Add(model);
+            model = new();
+        }
+    }
+}
