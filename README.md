@@ -59,7 +59,7 @@ Learning Path / Exploring C#
 - [ ] [.NET MAUI]()
 
 ### Data Access
-- [] [MS SQL Server](Data%20Access/RelationalDBSolution)
+- [ ] [MS SQL Server](Data%20Access/RelationalDBSolution)
 
 
 ### Other
