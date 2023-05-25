@@ -1,0 +1,62 @@
+@page "/person-info"
+
+<h3>Person Info</h3>
+<EditForm Model="person" OnValidSubmit="ValidPersonSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <label for="firstname" class="form-label">@nameof(person.FirstName)</label>
+    <InputText id="firstname" @bind-Value="person.FirstName" class="form-control" placeholder="Johnny" />
+    <label for="lastname" class="form-label">@nameof(person.LastName)</label>
+    <InputText id="lastname" @bind-Value="person.LastName" class="form-control" placeholder="Appleseed" />
+    <button class="btn btn-primary">Submit</button>
+</EditForm>
+
+<ul>
+    @foreach (var person in people)
+    {
+        <li>@person.FirstName @person.LastName</li>
+    }
+</ul>
+
+<h3>Address Info</h3>
+
+<EditForm Model="address" OnValidSubmit="ValidAddressSubmit" >
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <label for="street" class="form-label">@nameof(address.Street)</label>
+    <InputText id="street" @bind-Value="address.Street" class="form-control" placeholder="123 One Way Cres." />
+    <label for="city" class="form-label">@nameof(address.City)</label>
+    <InputText id="city" @bind-Value="address.City" class="form-control" placeholder="Cupertino" />
+    <label for="state" class="form-label">@nameof(address.State)</label>
+    <InputText id="state" @bind-Value="address.State" class="form-control" placeholder="CA" />
+    <label for="zipcode" class="form-label">@nameof(address.ZipCode)</label>
+    <InputText id="zipcode" @bind-Value="address.ZipCode" class="form-control" />
+    <button class="btn btn-primary" type="submit">Submit</button>
+</EditForm>
+
+<ul>
+    @foreach (var address in addresses)
+    {
+        <li>@address.Street @address.City @address.State @address.ZipCode</li>
+    }
+</ul>
+
+@code {
+    private PersonModel person = new();
+    private List<PersonModel> people = new();
+
+    private AddressModel address = new();
+    private List<AddressModel> addresses = new();
+
+    private void ValidPersonSubmit()
+    {
+        people.Add(person);
+        person = new();
+    }
+
+    private void ValidAddressSubmit()
+    {
+        addresses.Add(address);
+        address = new();
+    }
+}

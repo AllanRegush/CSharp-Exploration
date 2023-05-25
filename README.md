@@ -51,8 +51,15 @@ Learning Path / Exploring C#
 - [x] [ASP.Net Model View Controller MVC](Project%20Types/MVCApp)
 - [x] [ASP.Net Web API](Project%20Types/HelloUserWebAPI)
 - [x] [ASP.Net Web API Mini Project](Project%20Types/WebAPIMiniProjectApp/)
+- [x] [Blazor Server](Project%20Types/BlazorServerMessageWallApp/)
+- [x] [Blazor Server Mini Project](Project%20Types/BlazorServerMiniProjectApp/)
+- [x] [Blazor WASM](Project%20Types/BlazorWasmNameWallApp/)
+- [x] [Blazor WASM Mini Project](Project%20Types/BlazorWasmMiniProjectApp/)
 - [ ] [Xamarin Forms](Project%20Types/ShoppingListApp)
 - [ ] [.NET MAUI]()
+
+### Data Access
+- [] [MS SQL Server](Data%20Access/RelationalDBSolution)
 
 
 ### Other
