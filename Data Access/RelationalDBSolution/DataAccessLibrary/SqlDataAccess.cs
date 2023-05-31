@@ -6,7 +6,7 @@ namespace DataAccessLibrary;
 
 public class SqlDataAccess
 {
-    public List<T> LoadData<T, U>(string sqlStatement, U parameters, string connectionString)
+    internal List<T> LoadData<T, U>(string sqlStatement, U parameters, string connectionString)
     {
         using (IDbConnection connection = new SqlConnection(connectionString))
         {
@@ -15,7 +15,7 @@ public class SqlDataAccess
         }
     }
 
-    public void SaveData<T, U>(string sqlStatement, U parameters, string connectionString)
+    internal void SaveData<T, U>(string sqlStatement, U parameters, string connectionString)
     {
         using(var connection = new SqlConnection(connectionString))
         {
