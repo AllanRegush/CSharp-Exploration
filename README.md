@@ -60,6 +60,7 @@ Learning Path / Exploring C#
 
 ### Data Access
 - [ ] [MS SQL Server](Data%20Access/RelationalDBSolution)
+- [x] [MongoDB](Data%20Access/MongoDB)
 
 
 ### Other
